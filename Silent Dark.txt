@@ -1,0 +1,23 @@
+Requires:
+3+ Players
+1 D6
+Pencil & Paper
+
+Setting:
+Silent darkness, save the hum of engines and the ping of sonar. This far down, it no longer matters what war it is, or who's winning. Everything is your enemy.
+
+Setup:
+One player is GM, others are submarine captains. Players roll for the stats of their submarine, GM keeps note of this. GM draws a rough map of the terrain (obstacles, dangers), and the positions of each player (unknown to players.)
+
+How to play:
+Players take turns, clockwise around the table. At the beginning of a turn the GM tells the player about their surroundings, being vague about distant things and detailed about closer things. The player decides; to move, fire torpedo, remain silent, whatever GM accepts plausible. Success rolls are at GM discretion as only they know the map. Hull/Crew/Engines are lost during torpedo hits or other events. When a sub has no more engines it cannot move. A player loses when they have no hull or crew left.
+
++-------------------------------------------------------+
+| Dice  | Result    | Stats:                            |
++-------|-----------|-----------------------------------+
+| Roll  |           | Hull | Crew | Engines | Torpedoes |
+|-------|-----------|------|------|---------|-----------|
+| 1 - 2 | backfires |   5  |  15  |    1    |    10     |
+| 3 - 4 |   fail    |   7  |  20  |    2    |    15     |
+| 5 - 6 |  success  |  10  |  30  |    3    |    20     |
++-------------------------------------------------------+
